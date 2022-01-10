@@ -5,3 +5,14 @@ https//:www.metatechnoverse.net//web/extender.edu//
 // getting more prctice
 /* this is to better my understanding and
 practical use*/
+
+/* things entered below this line
+will pertan to actual code*/
+
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+printf("hello, world");
+}
